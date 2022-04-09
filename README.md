@@ -9,7 +9,7 @@
 | 623020765-0 | นายศิริวัฒน์ ภูลำสัตย์ | SC-SI |
 | **623021054-8** | **นางสาววนิศรา จงใจ** | **SC-SI** |
 * [Power Point](https://www.canva.com/design/DAE73gXUbfw/tCQ8UlYpTjr9PnVPyEohoQ/edit)
-* [Dash Board]
+* [Dash Board](https://datastudio.google.com/reporting/7bb276d8-72df-49a9-9fd2-e491f1214d71/page/qW9pC)
 ---
 ### :point_right: Final กลุ่ม
 ##### Group Name : civilises
